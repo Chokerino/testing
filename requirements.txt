@@ -1,0 +1,9 @@
+https://sourceforge.net/projects/pyquante/files/PyQuante-1.6/PyQuante-1.6.5/PyQu
+ 
+ # For building the documentation
+ sphinx
+# For generating the CHANGELOG
+towncrier
+ 
+ # For testing
+ pytest>=3.6
